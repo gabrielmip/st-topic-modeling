@@ -1,2 +1,2 @@
-# info-sciences-datasets
+# twitter-datasets
 Twitter datasets crawled for experiments in short text topic modeling
